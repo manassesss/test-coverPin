@@ -1,6 +1,7 @@
 # Mini Seller Console
 
 A lightweight React application for managing leads and converting them into opportunities. Built with React, TypeScript, Vite, and Tailwind CSS.
+<img src="(https://github.com/manassesss/try-repo/blob/main/test-c.png" width="500">
 
 ## Features
 
