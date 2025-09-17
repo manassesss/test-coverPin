@@ -1,0 +1,902 @@
+[
+  {
+    "id": 1,
+    "name": "John Smith",
+    "company": "TechCorp Inc",
+    "email": "john.smith@techcorp.com",
+    "source": "Website",
+    "score": 95,
+    "status": "New"
+  },
+  {
+    "id": 2,
+    "name": "Sarah Johnson",
+    "company": "Innovation Labs",
+    "email": "sarah.j@innovationlabs.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": 3,
+    "name": "Mike Chen",
+    "company": "StartupXYZ",
+    "email": "mike.chen@startupxyz.com",
+    "source": "LinkedIn",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": 4,
+    "name": "Emily Davis",
+    "company": "Global Solutions",
+    "email": "emily.davis@globalsolutions.com",
+    "source": "Website",
+    "score": 76,
+    "status": "New"
+  },
+  {
+    "id": 5,
+    "name": "David Wilson",
+    "company": "Enterprise Corp",
+    "email": "david.wilson@enterprise.com",
+    "source": "Cold Call",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": 6,
+    "name": "Lisa Anderson",
+    "company": "Digital Ventures",
+    "email": "lisa.anderson@digitalventures.com",
+    "source": "Website",
+    "score": 91,
+    "status": "Qualified"
+  },
+  {
+    "id": 7,
+    "name": "Robert Brown",
+    "company": "Future Tech",
+    "email": "robert.brown@futuretech.com",
+    "source": "Referral",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": 8,
+    "name": "Jennifer Taylor",
+    "company": "Cloud Systems",
+    "email": "jennifer.taylor@cloudsystems.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "Contacted"
+  },
+  {
+    "id": 9,
+    "name": "Michael Garcia",
+    "company": "Data Analytics Co",
+    "email": "michael.garcia@dataanalytics.com",
+    "source": "Website",
+    "score": 93,
+    "status": "Qualified"
+  },
+  {
+    "id": 10,
+    "name": "Amanda Martinez",
+    "company": "AI Solutions",
+    "email": "amanda.martinez@aisolutions.com",
+    "source": "Cold Call",
+    "score": 82,
+    "status": "New"
+  },
+  {
+    "id": 11,
+    "name": "Christopher Lee",
+    "company": "Blockchain Ventures",
+    "email": "chris.lee@blockchainventures.com",
+    "source": "Referral",
+    "score": 89,
+    "status": "Contacted"
+  },
+  {
+    "id": 12,
+    "name": "Jessica White",
+    "company": "Mobile First",
+    "email": "jessica.white@mobilefirst.com",
+    "source": "Website",
+    "score": 85,
+    "status": "Qualified"
+  },
+  {
+    "id": 13,
+    "name": "Daniel Rodriguez",
+    "company": "Security Plus",
+    "email": "daniel.rodriguez@securityplus.com",
+    "source": "LinkedIn",
+    "score": 78,
+    "status": "New"
+  },
+  {
+    "id": 14,
+    "name": "Ashley Thompson",
+    "company": "Green Energy",
+    "email": "ashley.thompson@greenenergy.com",
+    "source": "Website",
+    "score": 90,
+    "status": "Contacted"
+  },
+  {
+    "id": 15,
+    "name": "Kevin Harris",
+    "company": "FinTech Solutions",
+    "email": "kevin.harris@fintechsolutions.com",
+    "source": "Cold Call",
+    "score": 86,
+    "status": "Qualified"
+  },
+  {
+    "id": 16,
+    "name": "Michelle Clark",
+    "company": "HealthTech Inc",
+    "email": "michelle.clark@healthtech.com",
+    "source": "Referral",
+    "score": 94,
+    "status": "New"
+  },
+  {
+    "id": 17,
+    "name": "Ryan Lewis",
+    "company": "E-commerce Pro",
+    "email": "ryan.lewis@ecommercepro.com",
+    "source": "Website",
+    "score": 81,
+    "status": "Contacted"
+  },
+  {
+    "id": 18,
+    "name": "Stephanie Walker",
+    "company": "EdTech Innovations",
+    "email": "stephanie.walker@edtechinnovations.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "Qualified"
+  },
+  {
+    "id": 19,
+    "name": "Brandon Hall",
+    "company": "Logistics Plus",
+    "email": "brandon.hall@logisticsplus.com",
+    "source": "Cold Call",
+    "score": 77,
+    "status": "New"
+  },
+  {
+    "id": 20,
+    "name": "Nicole Allen",
+    "company": "Retail Solutions",
+    "email": "nicole.allen@retailsolutions.com",
+    "source": "Website",
+    "score": 83,
+    "status": "Contacted"
+  },
+  {
+    "id": 21,
+    "name": "Tyler Young",
+    "company": "Manufacturing Co",
+    "email": "tyler.young@manufacturing.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": 22,
+    "name": "Rachel King",
+    "company": "Real Estate Tech",
+    "email": "rachel.king@realestatetech.com",
+    "source": "Website",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": 23,
+    "name": "Andrew Wright",
+    "company": "Transportation Hub",
+    "email": "andrew.wright@transportationhub.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": 24,
+    "name": "Lauren Scott",
+    "company": "Media Group",
+    "email": "lauren.scott@mediagroup.com",
+    "source": "Cold Call",
+    "score": 87,
+    "status": "Qualified"
+  },
+  {
+    "id": 25,
+    "name": "Joshua Green",
+    "company": "Consulting Firm",
+    "email": "joshua.green@consultingfirm.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "New"
+  },
+  {
+    "id": 26,
+    "name": "Megan Adams",
+    "company": "Legal Tech",
+    "email": "megan.adams@legaltech.com",
+    "source": "Website",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": 27,
+    "name": "Justin Baker",
+    "company": "Insurance Pro",
+    "email": "justin.baker@insurancepro.com",
+    "source": "LinkedIn",
+    "score": 80,
+    "status": "Qualified"
+  },
+  {
+    "id": 28,
+    "name": "Samantha Nelson",
+    "company": "Banking Solutions",
+    "email": "samantha.nelson@bankingsolutions.com",
+    "source": "Cold Call",
+    "score": 89,
+    "status": "New"
+  },
+  {
+    "id": 29,
+    "name": "Matthew Carter",
+    "company": "Investment Group",
+    "email": "matthew.carter@investmentgroup.com",
+    "source": "Referral",
+    "score": 93,
+    "status": "Contacted"
+  },
+  {
+    "id": 30,
+    "name": "Brittany Mitchell",
+    "company": "Trading Platform",
+    "email": "brittany.mitchell@tradingplatform.com",
+    "source": "Website",
+    "score": 86,
+    "status": "Qualified"
+  },
+  {
+    "id": 31,
+    "name": "Zachary Perez",
+    "company": "Crypto Exchange",
+    "email": "zachary.perez@cryptoexchange.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "New"
+  },
+  {
+    "id": 32,
+    "name": "Kayla Roberts",
+    "company": "Payment Gateway",
+    "email": "kayla.roberts@paymentgateway.com",
+    "source": "Cold Call",
+    "score": 82,
+    "status": "Contacted"
+  },
+  {
+    "id": 33,
+    "name": "Nathan Turner",
+    "company": "Digital Wallet",
+    "email": "nathan.turner@digitalwallet.com",
+    "source": "Website",
+    "score": 90,
+    "status": "Qualified"
+  },
+  {
+    "id": 34,
+    "name": "Hannah Phillips",
+    "company": "Lending Platform",
+    "email": "hannah.phillips@lendingplatform.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "New"
+  },
+  {
+    "id": 35,
+    "name": "Jacob Campbell",
+    "company": "Credit Union",
+    "email": "jacob.campbell@creditunion.com",
+    "source": "LinkedIn",
+    "score": 79,
+    "status": "Contacted"
+  },
+  {
+    "id": 36,
+    "name": "Olivia Parker",
+    "company": "Wealth Management",
+    "email": "olivia.parker@wealthmanagement.com",
+    "source": "Cold Call",
+    "score": 94,
+    "status": "Qualified"
+  },
+  {
+    "id": 37,
+    "name": "Ethan Evans",
+    "company": "Asset Management",
+    "email": "ethan.evans@assetmanagement.com",
+    "source": "Website",
+    "score": 87,
+    "status": "New"
+  },
+  {
+    "id": 38,
+    "name": "Grace Edwards",
+    "company": "Hedge Fund",
+    "email": "grace.edwards@hedgefund.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "Contacted"
+  },
+  {
+    "id": 39,
+    "name": "Noah Collins",
+    "company": "Private Equity",
+    "email": "noah.collins@privateequity.com",
+    "source": "LinkedIn",
+    "score": 83,
+    "status": "Qualified"
+  },
+  {
+    "id": 40,
+    "name": "Chloe Stewart",
+    "company": "Venture Capital",
+    "email": "chloe.stewart@venturecapital.com",
+    "source": "Cold Call",
+    "score": 88,
+    "status": "New"
+  },
+  {
+    "id": 41,
+    "name": "Liam Sanchez",
+    "company": "Angel Investors",
+    "email": "liam.sanchez@angelinvestors.com",
+    "source": "Website",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": 42,
+    "name": "Ava Morris",
+    "company": "Crowdfunding",
+    "email": "ava.morris@crowdfunding.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": 43,
+    "name": "William Rogers",
+    "company": "IPO Advisory",
+    "email": "william.rogers@ipoadvisory.com",
+    "source": "LinkedIn",
+    "score": 89,
+    "status": "New"
+  },
+  {
+    "id": 44,
+    "name": "Sophia Reed",
+    "company": "M&A Consulting",
+    "email": "sophia.reed@maconsulting.com",
+    "source": "Cold Call",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": 45,
+    "name": "James Cook",
+    "company": "Due Diligence",
+    "email": "james.cook@duediligence.com",
+    "source": "Website",
+    "score": 90,
+    "status": "Qualified"
+  },
+  {
+    "id": 46,
+    "name": "Isabella Morgan",
+    "company": "Risk Assessment",
+    "email": "isabella.morgan@riskassessment.com",
+    "source": "Referral",
+    "score": 87,
+    "status": "New"
+  },
+  {
+    "id": 47,
+    "name": "Benjamin Bell",
+    "company": "Compliance Solutions",
+    "email": "benjamin.bell@compliancesolutions.com",
+    "source": "LinkedIn",
+    "score": 93,
+    "status": "Contacted"
+  },
+  {
+    "id": 48,
+    "name": "Mia Murphy",
+    "company": "Regulatory Affairs",
+    "email": "mia.murphy@regulatoryaffairs.com",
+    "source": "Cold Call",
+    "score": 81,
+    "status": "Qualified"
+  },
+  {
+    "id": 49,
+    "name": "Lucas Bailey",
+    "company": "Audit Services",
+    "email": "lucas.bailey@auditservices.com",
+    "source": "Website",
+    "score": 88,
+    "status": "New"
+  },
+  {
+    "id": 50,
+    "name": "Charlotte Rivera",
+    "company": "Tax Advisory",
+    "email": "charlotte.rivera@taxadvisory.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": 51,
+    "name": "Henry Cooper",
+    "company": "Accounting Firm",
+    "email": "henry.cooper@accountingfirm.com",
+    "source": "LinkedIn",
+    "score": 82,
+    "status": "Qualified"
+  },
+  {
+    "id": 52,
+    "name": "Amelia Richardson",
+    "company": "Bookkeeping Pro",
+    "email": "amelia.richardson@bookkeepingpro.com",
+    "source": "Cold Call",
+    "score": 79,
+    "status": "New"
+  },
+  {
+    "id": 53,
+    "name": "Alexander Cox",
+    "company": "Payroll Solutions",
+    "email": "alexander.cox@payrollsolutions.com",
+    "source": "Website",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": 54,
+    "name": "Harper Ward",
+    "company": "HR Management",
+    "email": "harper.ward@hrmanagement.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "Qualified"
+  },
+  {
+    "id": 55,
+    "name": "Mason Torres",
+    "company": "Recruitment Agency",
+    "email": "mason.torres@recruitmentagency.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "New"
+  },
+  {
+    "id": 56,
+    "name": "Evelyn Peterson",
+    "company": "Training Solutions",
+    "email": "evelyn.peterson@trainingsolutions.com",
+    "source": "Cold Call",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": 57,
+    "name": "Sebastian Gray",
+    "company": "Performance Management",
+    "email": "sebastian.gray@performancemanagement.com",
+    "source": "Website",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": 58,
+    "name": "Abigail Ramirez",
+    "company": "Employee Benefits",
+    "email": "abigail.ramirez@employeebenefits.com",
+    "source": "Referral",
+    "score": 87,
+    "status": "New"
+  },
+  {
+    "id": 59,
+    "name": "Jackson James",
+    "company": "Workplace Safety",
+    "email": "jackson.james@workplacesafety.com",
+    "source": "LinkedIn",
+    "score": 83,
+    "status": "Contacted"
+  },
+  {
+    "id": 60,
+    "name": "Emily Watson",
+    "company": "Diversity & Inclusion",
+    "email": "emily.watson@diversityinclusion.com",
+    "source": "Cold Call",
+    "score": 90,
+    "status": "Qualified"
+  },
+  {
+    "id": 61,
+    "name": "Aiden Brooks",
+    "company": "Remote Work Solutions",
+    "email": "aiden.brooks@remoteworksolutions.com",
+    "source": "Website",
+    "score": 92,
+    "status": "New"
+  },
+  {
+    "id": 62,
+    "name": "Madison Kelly",
+    "company": "Team Building",
+    "email": "madison.kelly@teambuilding.com",
+    "source": "Referral",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": 63,
+    "name": "Carter Sanders",
+    "company": "Leadership Development",
+    "email": "carter.sanders@leadershipdevelopment.com",
+    "source": "LinkedIn",
+    "score": 88,
+    "status": "Qualified"
+  },
+  {
+    "id": 64,
+    "name": "Victoria Price",
+    "company": "Executive Coaching",
+    "email": "victoria.price@executivecoaching.com",
+    "source": "Cold Call",
+    "score": 94,
+    "status": "New"
+  },
+  {
+    "id": 65,
+    "name": "Wyatt Bennett",
+    "company": "Change Management",
+    "email": "wyatt.bennett@changemanagement.com",
+    "source": "Website",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": 66,
+    "name": "Aria Wood",
+    "company": "Organizational Design",
+    "email": "aria.wood@organizationaldesign.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "Qualified"
+  },
+  {
+    "id": 67,
+    "name": "Owen Barnes",
+    "company": "Process Improvement",
+    "email": "owen.barnes@processimprovement.com",
+    "source": "LinkedIn",
+    "score": 89,
+    "status": "New"
+  },
+  {
+    "id": 68,
+    "name": "Lily Ross",
+    "company": "Quality Assurance",
+    "email": "lily.ross@qualityassurance.com",
+    "source": "Cold Call",
+    "score": 87,
+    "status": "Contacted"
+  },
+  {
+    "id": 69,
+    "name": "Luke Henderson",
+    "company": "Six Sigma",
+    "email": "luke.henderson@sixsigma.com",
+    "source": "Website",
+    "score": 93,
+    "status": "Qualified"
+  },
+  {
+    "id": 70,
+    "name": "Natalie Coleman",
+    "company": "Lean Manufacturing",
+    "email": "natalie.coleman@leanmanufacturing.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "New"
+  },
+  {
+    "id": 71,
+    "name": "Gabriel Jenkins",
+    "company": "Supply Chain",
+    "email": "gabriel.jenkins@supplychain.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": 72,
+    "name": "Sofia Perry",
+    "company": "Inventory Management",
+    "email": "sofia.perry@inventorymanagement.com",
+    "source": "Cold Call",
+    "score": 82,
+    "status": "Qualified"
+  },
+  {
+    "id": 73,
+    "name": "Julian Powell",
+    "company": "Warehouse Solutions",
+    "email": "julian.powell@warehousesolutions.com",
+    "source": "Website",
+    "score": 90,
+    "status": "New"
+  },
+  {
+    "id": 74,
+    "name": "Aubrey Long",
+    "company": "Distribution Network",
+    "email": "aubrey.long@distributionnetwork.com",
+    "source": "Referral",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": 75,
+    "name": "Hudson Patterson",
+    "company": "Fleet Management",
+    "email": "hudson.patterson@fleetmanagement.com",
+    "source": "LinkedIn",
+    "score": 84,
+    "status": "Qualified"
+  },
+  {
+    "id": 76,
+    "name": "Zoey Hughes",
+    "company": "Last Mile Delivery",
+    "email": "zoey.hughes@lastmiledelivery.com",
+    "source": "Cold Call",
+    "score": 91,
+    "status": "New"
+  },
+  {
+    "id": 77,
+    "name": "Lincoln Flores",
+    "company": "Route Optimization",
+    "email": "lincoln.flores@routeoptimization.com",
+    "source": "Website",
+    "score": 87,
+    "status": "Contacted"
+  },
+  {
+    "id": 78,
+    "name": "Penelope Washington",
+    "company": "Tracking Systems",
+    "email": "penelope.washington@trackingsystems.com",
+    "source": "Referral",
+    "score": 89,
+    "status": "Qualified"
+  },
+  {
+    "id": 79,
+    "name": "Eli Butler",
+    "company": "Real-time Analytics",
+    "email": "eli.butler@realtimeanalytics.com",
+    "source": "LinkedIn",
+    "score": 92,
+    "status": "New"
+  },
+  {
+    "id": 80,
+    "name": "Layla Simmons",
+    "company": "Predictive Modeling",
+    "email": "layla.simmons@predictivemodeling.com",
+    "source": "Cold Call",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": 81,
+    "name": "Caleb Foster",
+    "company": "Machine Learning",
+    "email": "caleb.foster@machinelearning.com",
+    "source": "Website",
+    "score": 94,
+    "status": "Qualified"
+  },
+  {
+    "id": 82,
+    "name": "Nora Gonzales",
+    "company": "Deep Learning",
+    "email": "nora.gonzales@deeplearning.com",
+    "source": "Referral",
+    "score": 91,
+    "status": "New"
+  },
+  {
+    "id": 83,
+    "name": "Ryan Bryant",
+    "company": "Neural Networks",
+    "email": "ryan.bryant@neuralnetworks.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "Contacted"
+  },
+  {
+    "id": 84,
+    "name": "Hazel Alexander",
+    "company": "Computer Vision",
+    "email": "hazel.alexander@computervision.com",
+    "source": "Cold Call",
+    "score": 93,
+    "status": "Qualified"
+  },
+  {
+    "id": 85,
+    "name": "Aaron Russell",
+    "company": "Natural Language Processing",
+    "email": "aaron.russell@nlp.com",
+    "source": "Website",
+    "score": 89,
+    "status": "New"
+  },
+  {
+    "id": 86,
+    "name": "Violet Griffin",
+    "company": "Speech Recognition",
+    "email": "violet.griffin@speechrecognition.com",
+    "source": "Referral",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": 87,
+    "name": "Ian Diaz",
+    "company": "Robotics",
+    "email": "ian.diaz@robotics.com",
+    "source": "LinkedIn",
+    "score": 90,
+    "status": "Qualified"
+  },
+  {
+    "id": 88,
+    "name": "Nova Hayes",
+    "company": "Automation Systems",
+    "email": "nova.hayes@automationsystems.com",
+    "source": "Cold Call",
+    "score": 88,
+    "status": "New"
+  },
+  {
+    "id": 89,
+    "name": "Kai Myers",
+    "company": "IoT Solutions",
+    "email": "kai.myers@iotsolutions.com",
+    "source": "Website",
+    "score": 85,
+    "status": "Contacted"
+  },
+  {
+    "id": 90,
+    "name": "Maya Ford",
+    "company": "Smart Sensors",
+    "email": "maya.ford@smartsensors.com",
+    "source": "Referral",
+    "score": 92,
+    "status": "Qualified"
+  },
+  {
+    "id": 91,
+    "name": "Jaxon Hamilton",
+    "company": "Edge Computing",
+    "email": "jaxon.hamilton@edgecomputing.com",
+    "source": "LinkedIn",
+    "score": 87,
+    "status": "New"
+  },
+  {
+    "id": 92,
+    "name": "Elena Graham",
+    "company": "Fog Computing",
+    "email": "elena.graham@fogcomputing.com",
+    "source": "Cold Call",
+    "score": 84,
+    "status": "Contacted"
+  },
+  {
+    "id": 93,
+    "name": "Cole Sullivan",
+    "company": "Distributed Systems",
+    "email": "cole.sullivan@distributedsystems.com",
+    "source": "Website",
+    "score": 91,
+    "status": "Qualified"
+  },
+  {
+    "id": 94,
+    "name": "Ariana Wallace",
+    "company": "Microservices",
+    "email": "ariana.wallace@microservices.com",
+    "source": "Referral",
+    "score": 89,
+    "status": "New"
+  },
+  {
+    "id": 95,
+    "name": "Brayden Woods",
+    "company": "API Gateway",
+    "email": "brayden.woods@apigateway.com",
+    "source": "LinkedIn",
+    "score": 86,
+    "status": "Contacted"
+  },
+  {
+    "id": 96,
+    "name": "Claire Cole",
+    "company": "Service Mesh",
+    "email": "claire.cole@servicemesh.com",
+    "source": "Cold Call",
+    "score": 93,
+    "status": "Qualified"
+  },
+  {
+    "id": 97,
+    "name": "Dominic West",
+    "company": "Container Orchestration",
+    "email": "dominic.west@containerorchestration.com",
+    "source": "Website",
+    "score": 90,
+    "status": "New"
+  },
+  {
+    "id": 98,
+    "name": "Savannah Jordan",
+    "company": "Serverless Computing",
+    "email": "savannah.jordan@serverlesscomputing.com",
+    "source": "Referral",
+    "score": 88,
+    "status": "Contacted"
+  },
+  {
+    "id": 99,
+    "name": "Carson Owens",
+    "company": "Function as a Service",
+    "email": "carson.owens@faas.com",
+    "source": "LinkedIn",
+    "score": 85,
+    "status": "Qualified"
+  },
+  {
+    "id": 100,
+    "name": "Brooklyn Reynolds",
+    "company": "Event-driven Architecture",
+    "email": "brooklyn.reynolds@eventdriven.com",
+    "source": "Cold Call",
+    "score": 92,
+    "status": "New"
+  }
+]
